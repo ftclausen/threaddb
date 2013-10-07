@@ -1,0 +1,2 @@
+* Strip out properly - ActiveMQConnection[ID:apcprd-N-N-appN-N-N-N:N]
+* String out "sessionId=" [done]

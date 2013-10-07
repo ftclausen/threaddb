@@ -1,0 +1,10 @@
+
+
+Server
+------
+
+* Stores all thread types with some metadata
+** Versions detected in
+** Bug ID's associated
+* RESTful API using JSON as data transfer
+** http://www.slideshare.net/rmaclean/json-and-rest

@@ -16,6 +16,22 @@ so that the following can be done
 - Find known bad thread patterns
 - Find new threads
 
+Building
+--------
+
+```
+mvn package
+```
+
+Usage
+-----
+
+```
+java -jar target/threaddb-1.0.jar <thread dump>
+```
+
+Replace `1.0` with the version you've built.
+
 Credit
 ------
  
